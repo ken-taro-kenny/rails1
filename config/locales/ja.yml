@@ -1,0 +1,6 @@
+    ja:
+      attributes:
+        title: タイトル
+        start_date: 開始日
+        end_date: 終了日
+        detail: スケジュールメモ
